@@ -33,3 +33,4 @@ See the in-site [Privacy & Legal](src/app/legal/page.tsx) page (`/legal`).
 Minecraft textures and imagery are © Mojang Studios / Microsoft and are used
 under the [Minecraft Usage Guidelines](https://www.minecraft.net/en-us/usage-guidelines).
 Keep the site free and ad-free to stay within them.
+[![Live on Vercel](https://img.shields.io/badge/Live%20on-Vercel-black?logo=vercel)](https://minecraft-3d-website.vercel.app/)
